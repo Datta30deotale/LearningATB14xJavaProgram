@@ -1,6 +1,6 @@
 package ex_02_Java_Basics;
 
-public class Lab_020_Interview_QnA2 {
+public class Lab020_Interview_QnA2 {
     public static void main(String[] args) {
 //        int enum = 10;
 //        System.out.println(enum);  // This code is commented out, so it won't run.

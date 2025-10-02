@@ -1,6 +1,6 @@
 package ex_02_Java_Basics;
 
-public class Lab_018 {
+public class Lab018 {
     public static void main(String[] args) {
         int _ = 65;
         int $ = 54;

@@ -1,6 +1,6 @@
 package ex_02_Java_Basics;
 
-public class Lab_015_Variables {
+public class Lab015_Variables {
     public static void main(String[] args) {
         // data type variable_name = variable_value ---> pattern
 
